@@ -20,7 +20,7 @@ double mediana(studentas &temp);
 int main()
 {
  int sk;
- char yn, vm;
+ char yn;
  string k = "";
  cout<<"kiek bus studentu? Iveskite teigiama skaiciu"<<endl;
  cin>>k;
