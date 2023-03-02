@@ -1,6 +1,5 @@
-# Laboratorinis_1 V0.2
-Yra dvi programos versijos, vienoje naudojami masyvai, kitoje naudojami vektoriai.<br>
-**Versija su masyvais:**
+# Laboratorinis_1 V0.3
+
 
 <ul>
 <li>Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būtų skaitomi iš failo.</li>
@@ -13,8 +12,11 @@ Yra dvi programos versijos, vienoje naudojami masyvai, kitoje naudojami vektoria
 <li>Vartotojas įveda egzamino rezultatą. (Tikrinama ar duomenys atitinka reikalavimus)</li>
 <li>Apskaičiuojamas vidurkis ir mediana, su jais išvedami du galimi galutiniai įvertinimai</li>
   <strong>Jeigu pasirenka duomenų skaitymą iš failo:</strong>
-<li>Atidaromas failas (Jeigu tokio failo nėra, apie tai pranešama vartotojui ir programa nutraukiama)
+<li>Atidaromas failas (Jeigu tokio failo nėra, naudojamas išimčių valdymas, apie tai pranešama vartotojui ir programa nutraukiama)
 <li>Į atskirą vektorių yra nuskaitoma pirma eilutė, siekiant sužinoti kiek elementų apibūdina vieną studentą.
 <li>Failas skaitomas.
 <li>Apskaičiuojamas vidurkis ir mediana, su jais išvedami du galimi galutiniai įvertinimai</li>
 </ul>
+<ul>
+<li> Versiją sudaro .cpp failas su main funkcija, .cpp failas su kitomis funkcijomis, .h failas bibliotekoms ir .h failas struktūrai ir funkcijų antraštėms.</li>
+  </ul>
