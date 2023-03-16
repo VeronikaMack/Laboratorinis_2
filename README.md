@@ -37,7 +37,9 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
 <li>Apskaičiuojamas vidurkis ir mediana.</li>
 <li>Pagal gautus rezultatus studentai skirstomi į šaunuolių vektorių (galutinis įvertinimas >=5) ir vargšų vektorių (galutinis įvertinimas <5).</li>
 <li>Šaunuolių ir vargšu vektoriai perduodami spausdinimo funkcijai kur rezultatai išvedami į atskirus vargšų ir šaunuolių txt. failus.</li>
+</ul>
+<strong>Papildoma informacija</strong>
 <ul>
 <li> Versiją sudaro .cpp failas su main funkcija, .cpp failas su kitomis funkcijomis, .h failas bibliotekoms ir .h failas struktūrai ir funkcijų antraštėms.</li>
-<li> Versijoje taip pat naudojant <strong>chrono</strong> biblioteką skaičiuojamas failo generavimo laikas, 
+<li> Versijoje taip pat naudojant <strong>chrono</strong> biblioteką skaičiuojami failo generavimo laikas, failo skaitymo, studentų rūšiavimo į šaunuolius ir vargšus, rezultatų išvedimo į du skirtingus failus ir visos programos veikimo laikai.</li>
  </ul>
