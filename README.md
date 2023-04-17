@@ -354,4 +354,37 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
  </tr>
  </table>
  <br>
+ <strong>NAUDOJIMOSI ŽINGSNIAI:</strong>
+ <br>
+ <ol>
+ <li>Pasirinkite kokį konteinerį naudosite (v - vector, l - list, d - deque)</li>
+ <li>Spauskite 1 - 1 strategija (kuriamas vargšų konteineris ir įrašai ištrinami iš pagrindinio konteinerio). Spauskite 2 - 2 strategija (kuriami 2 to pačio tipo vargšų ir šaunuolių konteineriai)</li>
+ <li>Spauskite 'p' - studentus aprašote patys arba 'a' - skaitoma iš failo</li>
+    <ol>
+    <li>Jeigu pasirinkote 'p'</li>
+        <ol>
+         <li>Įveskite studento vardą ir pavardę</li>
+         <li>Įveskite 'p' jeigu norite pažymius vesti pats arba 'a', jeigu norite sugeneruotų        pažymių</li>
+              <ol>
+              <li>Jeigu pasirinkote p - veskite pažymius 1-10 ir kai baigsite vesti spauskite 11</li>
+              <li>Jeigu pasirinkote 'a' - įveskite teigiamą skaičių kiek pažymių generuoti</li>
+              </ol>
+         <li>Įveskite egzamino rezultatą (1-10)</li>
+         </ol>
+     <li>Jeigu pasirinkote 'a'</li>
+        <ol>
+        <li>Norėdami generuoti naują failą spauskite 'n', norėdami naudoti jau turimą failą spauskite 't'</li>
+             <ol>
+             <li>Jeigu pasirinkote 'n'.</li>
+                  <ol>
+                  <li>Pasirinkite kiek įrašų generuoti faile (1000, 10000, 100000, 1000000, 10000000)</li>
+                  <li>Pasirinkite kiek pažymių generuoti</li>
+                  </ol>
+              <li>Jeigu pasirinkote 't'</li>
+                 <ol> 
+                 <li>Įveskite failo pavadinimą iš direktorijos</li>
+                 </ol>
+              </ol>
+         </ol>
+ </ol>
  
