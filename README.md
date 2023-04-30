@@ -387,4 +387,54 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
               </ol>
          </ol>
  </ol>
- 
+ <br>
+  <strong>V1.1</strong>
+  <br>
+  <strong>Struktūros ir klasės palyginimas(s)(vector, 2 strategija):</strong>
+  <table>
+ <tr>
+ <th>Struktūra</th>
+ <th>100000</th>
+ <th>1000000</th>
+ </tr>
+  <tr>
+ <td>programos veikimo laikas</td>
+ <td>0.946</td>
+ <td>7.673</td>
+ </tr>
+ <tr>
+ <td>studentų rūšiavimas didėjimo tvarka konteineryje</th>
+ <td>0.233</td>
+ <td>2.856</td>
+ </tr>
+ <tr>
+ <td>studentų skirstymas į dvi grupes</th>
+ <td>0.048</td>
+ <td>0.357</td>
+ </tr>
+ </table>
+  <br>
+   <table>
+ <tr>
+ <th>Klasė</th>
+ <th>100000</th>
+ <th>1000000</th>
+ </tr>
+  <tr>
+ <td>programos veikimo laikas</td>
+ <td>3.068</td>
+ <td>21.797</td>
+ </tr>
+ <tr>
+ <td>studentų rūšiavimas didėjimo tvarka konteineryje</th>
+ <td>0.571</td>
+ <td>6.689</td>
+ </tr>
+ <tr>
+ <td>studentų skirstymas į dvi grupes</th>
+ <td>0.051</td>
+ <td>0.743</td>
+ </tr>
+ </table>
+  <br>
+  
