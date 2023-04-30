@@ -1,4 +1,4 @@
-# Laboratorinis_1 V1.0
+# Laboratorinis_2 V1.1
 <strong> Visų versijų aprašymai:</strong><br>
 <strong>V0.1</strong>
 <ul>
@@ -437,4 +437,35 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
  </tr>
  </table>
   <br>
-  
+  <strong>V1.1 sparta naudojant flag'us(s)(vector, class, 1000000):</strong>
+   <table>
+ <tr>
+   <th>Žingsniai</th>
+   <th>be flag</th>
+ <th>01</th>
+ <th>02</th>
+ <th>03</th>
+ </tr>
+  <tr>
+ <td>programos veikimo laikas</td>
+<td>21.797</td>
+    <td>14.809</td>
+ <td>9.881</td>
+  <td>8.802</td>
+ </tr>
+ <tr>
+ <td>studentų rūšiavimas didėjimo tvarka konteineryje</th>
+   <td>6.689</td>
+ <td>4.105</td>
+ <td>1.877</td>
+  <td>1.180</td>
+ </tr>
+ <tr>
+ <td>studentų skirstymas į dvi grupes</th>
+  <td>0.743</td>
+ <td>0.415</td>
+ <td>0.557</td>
+ <td>0.557</td>
+ </tr>
+ </table>
+  <br>
