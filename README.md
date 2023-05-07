@@ -1,4 +1,4 @@
-# Laboratorinis_2 V1.1
+# Laboratorinis_2 V1.2
 <strong> Visų versijų aprašymai:</strong><br>
 <strong>V0.1</strong>
 <ul>
