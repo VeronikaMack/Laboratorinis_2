@@ -1,4 +1,4 @@
-# Laboratorinis_2 V1.2
+# Laboratorinis_2 V1.5
 <strong> Visų versijų aprašymai:</strong><br>
 <strong>V0.1</strong>
 <ul>
@@ -469,3 +469,10 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
  </tr>
  </table>
   <br>
+  <strong> V1.5 </strong>
+ </br>
+ <ul>
+ <li> Šioje versijoje studentų klasę pakeičia <strong> base </strong> klasė "zmogus" ir <strong>derived</strong> klasė "studentas".</li> 
+  <li> Base klasė aprašo žmogų(vardas, pavarde).</li>
+  <li>Derived klasė paveldi žmogaus klasės kintamuosius</li>
+  </ul>
