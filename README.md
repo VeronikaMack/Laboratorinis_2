@@ -469,3 +469,9 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
  </tr>
  </table>
   <br>
+  <strong>V1.2</strong>
+  <br>
+  <ul>
+  <li>Klasė papildyta "Rule of five" realizacija.</li>
+  </ul>
+  <br>
