@@ -486,7 +486,9 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
 <strong>V2.0</strong>
 <br>
 <strong>ĮDIEGIMO INSTRUKCIJA</strong>
-<ul>Atsisiųskite Paleidimas.dmg failą</ul>
-<ul>Jį atidarius, jūsų darbalaukyje šalia Paleidimas.dmg failo atsiras Disk Image "Paleidimas"</ul>
-<ul>Atidarykite Disk Image</ul>
-<ul>Atidarykite failą "Program" ir programa pasileis</ul>
+<ul>
+  <li>Atsisiųskite Paleidimas.dmg failą</li>
+<li>Jį atidarius, jūsų darbalaukyje šalia Paleidimas.dmg failo atsiras Disk Image "Paleidimas"</li>
+<li>Atidarykite Disk Image</li>
+<li>Atidarykite failą "Program" ir programa pasileis</li>
+  </ul>
