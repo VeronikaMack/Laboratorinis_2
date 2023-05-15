@@ -483,3 +483,10 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
   <li> Base klasė aprašo žmogų(vardas, pavarde).</li>
   <li>Derived klasė paveldi žmogaus klasės kintamuosius</li>
   </ul>
+<strong>V2.0</strong>
+<br>
+<strong>ĮDIEGIMO INSTRUKCIJA</strong>
+<ul>Atsisiųskite Paleidimas.dmg failą</ul>
+<ul>Jį atidarius, jūsų darbalaukyje šalia Paleidimas.dmg failo atsiras Disk Image "Paleidimas"</ul>
+<ul>Atidarykite Disk Image</ul>
+<ul>Atidarykite failą "Program" ir programa pasileis</ul>
