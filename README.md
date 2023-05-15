@@ -485,7 +485,11 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
   </ul>
 <strong>V2.0</strong>
 <br>
-<strong>ĮDIEGIMO INSTRUKCIJA</strong>
+<ul>
+  <li> Versijoje sukurta doxygen dokumentacija, atlikti move assignment operatoriaus, vidurkio skaičiavimo ir naujo failo generavimo funkcijų unit testavimas naudojant catch2</li>
+  </ul>
+  <br>
+<strong>ĮDIEGIMO INSTRUKCIJA(veikia tik ant M1 chip mac)</strong>
 <ul>
   <li>Atsisiųskite Paleidimas.dmg failą</li>
 <li>Jį atidarius, jūsų darbalaukyje šalia Paleidimas.dmg failo atsiras Disk Image "Paleidimas"</li>
