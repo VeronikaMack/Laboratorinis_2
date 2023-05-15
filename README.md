@@ -1,4 +1,4 @@
-# Laboratorinis_2 V1.5
+# Laboratorinis_2 V2.0
 <strong> Visų versijų aprašymai:</strong><br>
 <strong>V0.1</strong>
 <ul>
@@ -358,6 +358,7 @@ Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būt�
  <br>
  <ol>
  <li>Pasirinkite kokį konteinerį naudosite (v - vector, l - list, d - deque)</li>
+  <li>Spauskite 1 - rezultatai bus pateikti failuose, 2 - rezultatai bus pateikti konsolėje</li>
  <li>Spauskite 1 - 1 strategija (kuriamas vargšų konteineris ir įrašai ištrinami iš pagrindinio konteinerio). Spauskite 2 - 2 strategija (kuriami 2 to pačio tipo vargšų ir šaunuolių konteineriai)</li>
  <li>Spauskite 'p' - studentus aprašote patys arba 'a' - skaitoma iš failo</li>
     <ol>
